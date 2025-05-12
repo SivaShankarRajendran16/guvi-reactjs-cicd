@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> YoYo Guvi Classes :-)
+          Edit <code>src/App.js</code> YoYo Siva Classes :-)
         </p>
         <a
           className="App-link"
